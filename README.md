@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Expense Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Usage
+```
+npm install
+
+# Run on http://localhost:3000
+npm start
+
+# Build for prod
+npm run build
+```
 
 ## Available Scripts
 
